@@ -1,1 +1,1 @@
-web: jruby.exe -S bundle exec puma --env production -p %PORT%
+web: jruby.exe -S bundle exec puma --env development -p %PORT%
